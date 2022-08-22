@@ -1,0 +1,16 @@
+{
+    "name": "alexradyuk/hellopackage",
+    "type": "library",
+    "autoload": {
+        "psr-0": {
+            "AlexRadyuk": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alex.r@gms.info"
+        }
+    ],
+    "require": {}
+}

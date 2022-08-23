@@ -6,7 +6,7 @@ namespace AlexRadyuk;
 
 class Hello
 {
-    public function greet(){
+    public function hello(){
         echo 'hello';
     }
 }
